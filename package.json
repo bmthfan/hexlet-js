@@ -19,5 +19,9 @@
   "homepage": "https://github.com/bmthfan/hexlet-js#readme",
   "dependencies": {
     "lodash": "^4.17.20"
+  },
+  "devDependencies": {
+    "jest": "^26.5.3",
+    "prettier": "^2.1.2"
   }
 }
